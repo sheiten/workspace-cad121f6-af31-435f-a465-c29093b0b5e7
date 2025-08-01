@@ -104,8 +104,8 @@ export default function Home() {
         <div className="text-center space-y-4 pt-8">
           <div className="relative w-24 h-24 md:w-32 md:h-32 mx-auto">
             <img
-              src="/logo.svg"
-              alt="Z.ai Logo"
+              src="/logo.png"
+              alt="Logo"
               className="w-full h-full object-contain"
             />
           </div>
